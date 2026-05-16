@@ -53,7 +53,8 @@ Combine metrics & historical scoring trends (1946–1965)
 
 ├── DWH/                # Queries for insights & warehouse creation
 
-├── Power BI/           # Dashboard file (.pbix)              
+├── Power BI/           # Dashboard file (.pbix)  
+
 └── README.md
 
 🚀 Getting Started
