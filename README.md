@@ -1,6 +1,14 @@
 🏀 NBA Data Analytics Project
-This project presents a complete data warehousing and analytics solution for historical NBA data. The original dataset was extracted from a SQLite database, cleaned, and transformed into a structured Star Schema data warehouse using SQL Server. The final model supports high-performance analytical queries and interactive dashboards in Power BI.
-https://www.kaggle.com/datasets/wyattowalsh/basketball
+This project presents a complete data warehousing and analytics solution for historical NBA data. The original dataset was extracted from a SQLite database sourced from Kaggle – NBA Database by Wyatt Walsh, cleaned, and transformed into a structured Star Schema data warehouse using SQL Server. The final model supports high-performance analytical queries and interactive dashboards in Power BI.
+
+📊 Original Dataset (Kaggle)
+Source: NBA Database on Kaggle
+
+Scope: 65,000+ games (1946–47 to present), 4,800+ players, 30 teams
+
+Contents: Box scores for 95%+ of games, 13M+ play-by-play rows, draft history, combine stats, and more
+
+Format: SQLite database (nba.sqlite)l
 
 🔧 Key Components
 Data Cleaning & Integration
