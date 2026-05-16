@@ -59,4 +59,4 @@ SQL Server (SSMS)
 
 Power BI
 
-SQL Server (source)
+SQLite (source)
