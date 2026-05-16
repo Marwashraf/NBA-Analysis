@@ -3,6 +3,7 @@ This project presents a complete data warehousing and analytics solution for his
 
 📊 Original Dataset (Kaggle)
 Source: NBA Database on Kaggle
+https://www.kaggle.com/datasets/wyattowalsh/basketball
 
 Scope: 65,000+ games (1946–47 to present), 4,800+ players, 30 teams
 
